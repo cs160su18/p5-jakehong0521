@@ -27,17 +27,16 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['p5-jakehong0521-jakehong0521206332.codeanyapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
-    'life',
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles',
+  'life',
+  'django.contrib.admin',
+  'django.contrib.auth',
+  'django.contrib.contenttypes',
+  'django.contrib.sessions',
+  'django.contrib.messages',
+  'django.contrib.staticfiles',
 ]
 
 MIDDLEWARE = [
